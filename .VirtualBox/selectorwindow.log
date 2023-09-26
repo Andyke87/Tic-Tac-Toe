@@ -1,0 +1,20 @@
+00:00:00.251544 VirtualBox GUI VM Selector Window 7.0.6 r155176 win.amd64 (Jan 11 2023 16:38:38) release log
+00:00:00.251545 Log opened 2023-06-14T07:16:13.708204600Z
+00:00:00.251546 Build Type: release
+00:00:00.251549 OS Product: Windows 11
+00:00:00.251550 OS Release: 10.0.22621
+00:00:00.251550 OS Service Pack: 
+00:00:00.260480 DMI Product Name: HP Laptop 15s-eq3xxx
+00:00:00.263341 DMI Product Version:  
+00:00:00.263351 Firmware type: UEFI
+00:00:00.263649 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.263671 Host RAM: 15712MB (15.3GB) total, 5623MB (5.4GB) available
+00:00:00.263675 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.263675 Process ID: 17076
+00:00:00.263675 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.263780 Qt version: 5.15.2
+00:00:00.264330 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.280665 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.939703 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:25.259227 GUI: UICommon: Handling aboutToQuit request..
+00:02:25.855947 GUI: UICommon: aboutToQuit request handled!
